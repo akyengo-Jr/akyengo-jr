@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=your-repo-name&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=another-repo-name&theme=radical)](https://github.com/akyengo-Jr/data-science-ipython-notebooks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=data-science-ipython-notebooks&theme=radical)](https://github.com/akyengo-Jr/data-science-ipython-notebooks)
 
 ## 📫 Get in Touch
 
