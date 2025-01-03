@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 👯 I’m looking to collaborate on interesting and challenging projects.
 - 💬 Ask me about Python.
 - 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com)
-- ⚡ Fun fact: I love reading about space and astronomy.
+- ⚡ Fun fact: I am a Microbial Science student.
 
 ##🛠️ Technologies & Tools
 
