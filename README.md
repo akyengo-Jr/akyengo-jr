@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there, I'm Goodness O. Akyengo. 👋
 
-<!--
-**akyengo-Jr/akyengo-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for technology and problem-solving. Here you'll find some of the projects I've been working on.
+🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and exploring new technologies in web development, data science, and machine learning.
+- 👯 I’m looking to collaborate on interesting and challenging projects.
+- 💬 Ask me about Python.
+- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com@example.com)
+- ⚡ Fun fact: I love reading about space and astronomy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript (Beginner), HTML, CSS
+- **Web Development:** HTML, CSS, Django and Streamlit
+- **Data Science:** Pandas, NumPy, SciPy, scikit-learn, Plotly, tensorflow, pytorch
+- **Cloud Services:** AWS, Azure, Google Cloud
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+
+## 📈 GitHub Stats
+
+![Akyengo Jr.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=akyengo-Jr&show_icons=true&theme=radical)
+
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=your-repo-name&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=another-repo-name&theme=radical)](https://github.com/akyengo-Jr/data-science-ipython-notebooks)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@G_akyengo](https://x.com/G_akyengo)
+- Personal Website: (NON yet)
+
+Thanks for visiting my profile! Have a great day! 😊
