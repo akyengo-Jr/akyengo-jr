@@ -1,15 +1,16 @@
 Hi there, I'm Goodness O. Akyengo. 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and problem-solving. Here you'll find some of the projects I've been working on.
-🚀 About Me
+
+##🚀 About Me
 
 - 🌱 I’m currently learning and exploring new technologies in web development, data science, and machine learning.
 - 👯 I’m looking to collaborate on interesting and challenging projects.
 - 💬 Ask me about Python.
-- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com@example.com)
+- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com)
 - ⚡ Fun fact: I love reading about space and astronomy.
 
-🛠️ Technologies & Tools
+##🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript (Beginner), HTML, CSS
 - **Web Development:** HTML, CSS, Django and Streamlit
