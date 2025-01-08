@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 - 🌱 I’m currently learning and exploring new technologies in web development, data science, and machine learning.
 - 👯 I’m looking to collaborate on interesting and challenging projects.
-- 💬 Ask me about Python.
 - 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com)
-- ⚡ Fun fact: I am a Microbial Science student.
+- ⚡ Fun fact: I love playing the keyboard (Piano).
 
 ##🛠️ Technologies & Tools
 
@@ -30,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [  ](https://www.linkedin.com/in/goodness-akyengo-308072324/)
 - Twitter: [@G_akyengo](https://x.com/G_akyengo)
 - Personal Website: (NON yet)
 
