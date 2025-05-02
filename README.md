@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about data with a love for technolo
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=data-science-ipython-notebooks&theme=radical)](https://github.com/akyengo-Jr/SQL_learning_projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=radical)](https://github.com/akyengo-Jr/SQL_learning_projects)
 
 ## 📫 Get in Touch
 
