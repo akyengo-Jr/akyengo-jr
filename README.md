@@ -2,22 +2,22 @@ Hi there, I'm Goodness O. Akyengo. 👋
 
 Welcome to my GitHub profile! I'm passionate about data with a love for technology and problem-solving. Here you'll find some of the projects I've been working on.
 
-##🚀 About Me
+## 🚀 About Me
 
 - 🌱 I’m currently learning and exploring new technologies in data science, and machine learning.
 - 👯 I’m looking to collaborate on interesting and challenging projects.
-- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo@outlook.com)
-- ⚡ Fun fact: I love playing the keyboard (Piano) and I play chess for fun.
+- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo1@gmail.com)
+- ⚡ Fun fact: I love playing the keyboard (Piano)
 
-##🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript (Beginner), HTML, CSS & SQL
-- **Web Development:** HTML, CSS, Django and Streamlit 
+- **Web Integration:** HTML, CSS, Django and Streamlit 
 - **Data Science:** Pandas, NumPy, SciPy, scikit-learn, Plotly, tensorflow, pytorch
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 
-## 📈 GitHub Stats
+##  📈 GitHub Stats
 
 ![Akyengo Jr.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=akyengo-Jr&show_icons=true&theme=radical)
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about data with a love for technolo
 ## 📫 Get in Touch
 
 - LinkedIn: [Goodness O. Akyengo](https://www.linkedin.com/in/goodness-akyengo/)
-- Twitter: [@G_akyengo](https://x.com/G_akyengo)
+- Twitter: [@akyengo_jr](https://x.com/akyengo_jr)
 - Personal Website: (NON yet)
 
 
