@@ -1,4 +1,4 @@
-Hi there, I'm Goodness O. Akyengo. 👋
+# Hi there, I'm Goodness O. Akyengo. 👋
 
 Welcome to my GitHub profile! I'm passionate about data with a love for technology and problem-solving. Here you'll find some of the projects I've been working on.
 
