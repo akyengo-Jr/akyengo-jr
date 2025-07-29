@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about data with a love for technolo
 
 - 🌱 I’m currently learning and exploring new technologies in data science, and machine learning.
 - 👯 I’m looking to collaborate on interesting and challenging projects.
-- 📫 How to reach me: [goodness.akyengo@outlook.com](mailto:goodness.akyengo1@gmail.com)
+- 📫 [Email Me](mailto:goodness.akyengo1@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard (Piano)
 
 ## 🛠️ Technologies & Tools
