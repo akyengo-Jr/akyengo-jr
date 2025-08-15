@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I'm passionate about data with a love for technolo
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 
-##  📈 GitHub Stats
-
-![Akyengo Jr.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=akyengo-Jr&show_icons=true&theme=radical)
-
-## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=radical)](https://github.com/akyengo-Jr/SQL_learning_projects)
