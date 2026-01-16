@@ -6,9 +6,9 @@ I am a Data Scientist driven by a foundation in **Microbiology**, where I develo
 
 ---
 
-### 核心 (Core Focus)
+### Core Focus
 
-* **Scientific Data Analysis:** Bridging biological precision with modern data science.
+* **Data Analysis:** Bridging biological precision with modern data science.
 * **Predictive Modelling:** Developing robust Machine Learning solutions via the ALX programme.
 * **Interactive Deployment:** Building bespoke Streamlit interfaces for real-time stakeholder engagement.
 
@@ -18,14 +18,14 @@ I am a Data Scientist driven by a foundation in **Microbiology**, where I develo
 * **Visualisation:** Power BI, Matplotlib, Seaborn.
 * **Frameworks:** Streamlit, Git, Agile Methodologies.
 
-### 📂 Featured Case Studies
+### Featured Case Studies
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=nord)](https://github.com/akyengo-Jr/analysis-dashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=nord)](https://github.com/akyengo-Jr/SQL_learning_projects)
 
 ---
 
-### 📫 Connect & Collaborate
+### Connect & Collaborate
 
 I am currently looking to collaborate on high-impact data projects or freelance opportunities.
 
@@ -33,5 +33,3 @@ I am currently looking to collaborate on high-impact data projects or freelance 
 * **Direct:** [goodness.akyengo1@gmail.com](mailto:goodness.akyengo1@gmail.com)
 * **X:** [@akyengo_jr](https://x.com/akyengo_jr)
 * **Portfolio site:**[....](https://akyengo-jr.github.io/portfolio/)
-
-*"Less, but better."*
