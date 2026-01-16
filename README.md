@@ -1,33 +1,37 @@
-# Hi there, I'm Goodness O. Akyengo. 👋
+# Goodness Akyengo
 
-Welcome to my GitHub profile! I'm passionate about data with a love for technology and problem-solving. Here you'll find some of the projects I've been working on.
+**Data Scientist | Analytical Specialist | Scientific Mindset**
 
-## 🚀 About Me
+I am a Data Scientist driven by a foundation in **Microbiology**, where I developed a disciplined approach to the scientific method and experimental rigour. I specialise in translating complex, raw variables into structured, actionable insights using Python, SQL, and Power BI.
 
-- 🌱 I’m currently learning and exploring new technologies in data science, and machine learning.
-- 👯 I’m looking to collaborate on interesting and challenging projects.
-- 📫 [Email Me](mailto:goodness.akyengo1@gmail.com)
-- ⚡ Fun fact: I love playing the keyboard (Piano)
+---
 
-## 🛠️ Technologies & Tools
+### 核心 (Core Focus)
 
-- **Languages:** Python, JavaScript (Beginner), HTML, CSS & SQL
-- **Web Integration:** HTML, CSS, Django and Streamlit 
-- **Data Science:** Pandas, NumPy, SciPy, scikit-learn, Plotly, tensorflow, pytorch
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git, GitHub
+* **Scientific Data Analysis:** Bridging biological precision with modern data science.
+* **Predictive Modelling:** Developing robust Machine Learning solutions via the ALX programme.
+* **Interactive Deployment:** Building bespoke Streamlit interfaces for real-time stakeholder engagement.
 
+### Technical Toolset
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=radical)](https://github.com/akyengo-Jr/SQL_learning_projects)
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL).
+* **Visualisation:** Power BI, Matplotlib, Seaborn.
+* **Frameworks:** Streamlit, Git, Agile Methodologies.
 
-## 📫 Get in Touch
+### 📂 Featured Case Studies
 
-- LinkedIn: [Goodness O. Akyengo](https://www.linkedin.com/in/goodness-akyengo/)
-- Twitter: [@akyengo_jr](https://x.com/akyengo_jr)
-- Personal Website: (NON yet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=nord)](https://github.com/akyengo-Jr/analysis-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=nord)](https://github.com/akyengo-Jr/SQL_learning_projects)
 
+---
 
-Hope we can colaborate in the future
+### 📫 Connect & Collaborate
 
-Have a great day! 😊
+I am currently looking to collaborate on high-impact data projects or freelance opportunities.
+
+* **Professional:** [LinkedIn](https://www.linkedin.com/in/goodnessakyengo/)
+* **Direct:** [goodness.akyengo1@gmail.com](mailto:goodness.akyengo1@gmail.com)
+* **X:** [@akyengo_jr](https://x.com/akyengo_jr)
+* **Portfolio site:**[....](https://akyengo-jr.github.io/portfolio/)
+
+*"Less, but better."*
