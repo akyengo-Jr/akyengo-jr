@@ -20,7 +20,7 @@ I am a Data Scientist driven by a foundation in **Microbiology**, where I develo
 
 ### Featured Case Studies
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=nord)](https://github.com/akyengo-Jr/analysis-dashboard)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=analysis-dashboard&theme=radical)](https://github.com/akyengo-Jr/analysis-dashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akyengo-Jr&repo=SQL_learning_projects&theme=nord)](https://github.com/akyengo-Jr/SQL_learning_projects)
 
 ---
