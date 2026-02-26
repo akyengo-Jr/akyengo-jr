@@ -2,7 +2,7 @@
 
 **Data Scientist | AI/ML Enthusiast**
 
-I am a Data Scientist driven by a foundation in **Microbiology**, where I developed a disciplined approach to the scientific method and experimental rigour. I specialise in translating complex, raw variables into structured, actionable insights using Python, SQL, and Power BI.
+I am a Data Scientist with a foundation in **Microbiology**, where I developed a disciplined approach to the scientific method and experimental rigour.I was trained in ALX Africa's Data Science track, now I specialise in translating complex, raw variables into structured, actionable insights using Python, SQL, Spreadsheets and Power BI.
 
 ---
 
