@@ -1,6 +1,6 @@
-# Goodness Akyengo
+# Goodness (Oshala) Akyengo
 
-**Data Scientist | Analytical Specialist | Scientific Mindset**
+**Data Scientist | AI/ML Enthusiast **
 
 I am a Data Scientist driven by a foundation in **Microbiology**, where I developed a disciplined approach to the scientific method and experimental rigour. I specialise in translating complex, raw variables into structured, actionable insights using Python, SQL, and Power BI.
 
@@ -9,13 +9,13 @@ I am a Data Scientist driven by a foundation in **Microbiology**, where I develo
 ### Core Focus
 
 * **Data Analysis:** Bridging biological precision with modern data science.
-* **Predictive Modelling:** Developing robust Machine Learning solutions via the ALX programme.
-* **Interactive Deployment:** Building bespoke Streamlit interfaces for real-time stakeholder engagement.
+* **Predictive Modelling:** Developing robust Machine Learning solutions acquired from the ALX programme.
+* **Interactive Deployment:** Building bespoke Streamlit interfaces for real-time stakeholder engagement, and Power BI reports deployment and integration/embedding.
 
 ### Technical Toolset
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL).
-* **Visualisation:** Power BI, Matplotlib, Seaborn.
+* **Visualisation:** Power BI, Matplotlib, Seaborn and Plotly
 * **Frameworks:** Streamlit, Git, Agile Methodologies.
 
 
@@ -28,4 +28,4 @@ I am currently looking to collaborate on high-impact data projects or freelance 
 * **Professional:** [LinkedIn](https://www.linkedin.com/in/goodnessakyengo/)
 * **Direct:** [goodness.akyengo1@gmail.com](mailto:goodness.akyengo1@gmail.com)
 * **X:** [@akyengo_jr](https://x.com/akyengo_jr)
-* **Portfolio site:**[....](https://akyengo-jr.github.io/portfolio/)
+* **My site:**[Visit](https://akyengo-jr.github.io/portfolio/)
