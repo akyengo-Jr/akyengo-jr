@@ -1,6 +1,6 @@
 # Goodness (Oshala) Akyengo
 
-**Data Scientist | AI/ML Enthusiast **
+**Data Scientist | AI/ML Enthusiast**
 
 I am a Data Scientist driven by a foundation in **Microbiology**, where I developed a disciplined approach to the scientific method and experimental rigour. I specialise in translating complex, raw variables into structured, actionable insights using Python, SQL, and Power BI.
 
@@ -25,7 +25,7 @@ I am a Data Scientist driven by a foundation in **Microbiology**, where I develo
 
 I am currently looking to collaborate on high-impact data projects or freelance opportunities.
 
-* **Professional:** [LinkedIn](https://www.linkedin.com/in/goodnessakyengo/)
-* **Direct:** [goodness.akyengo1@gmail.com](mailto:goodness.akyengo1@gmail.com)
-* **X:** [@akyengo_jr](https://x.com/akyengo_jr)
-* **My site:**[Visit](https://akyengo-jr.github.io/portfolio/)
+* **LinkedIn:** [ Visit Profile](https://www.linkedin.com/in/goodnessakyengo/)
+* **Direct:** [ Send an Email](mailto:goodness.akyengo1@gmail.com)
+* **X:** [ Visit Profile](https://x.com/akyengo_jr)
+* **My site:**[ Visit Site](https://akyengo-jr.github.io/portfolio/)
